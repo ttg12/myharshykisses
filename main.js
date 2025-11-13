@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Will You Be My Valentine? 💝</title>
+<title>for my cutiepie 💝</title>
 <style>
   body {
     margin: 0;
@@ -72,7 +72,7 @@
 <script>
 // Configuration
 const config = {
-  valentineName: "Jade",
+  valentineName: "Harsh",
   floatingEmojis: { hearts: ['❤️', '💖', '💝', '💗', '💓'], bears: ['🧸', '🐻'] },
   questions: {
     first: { text: "Do you like me?", yesBtn: "Yes", noBtn: "No", secretAnswer: "I don't like you, I love you! ❤️" },
